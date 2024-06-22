@@ -1,0 +1,106 @@
+.heading
+{
+width: 100%;
+text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_image
+{
+    width: 100%;
+}
+#start ,#status 
+{
+font-size: 22px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+video
+{
+    background: url('game_console.png');
+    background-size:cover;
+    background-position: center;
+    padding: 25px;
+}
+h4
+{
+   background-color: #f5f5f5;
+   line-height: 2;
+   margin: 0px;
+}
+.top {
+    background-color: black;
+    text-align: center;
+    height: 120px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url();
+  }
+
+.prueba{
+    font-family: myFirstFont;
+    background: linear-gradient(yellow,red);
+  -webkit-background-clip: text;
+  color: transparent;  
+}
+
+.modal-content{
+    background-color:black !important;
+}
+
+#ti {
+    text-align: center;
+    display: inline;
+    font-size: 120px;
+    font-family: myFirstFont;
+    background: linear-gradient(yellow,red);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(ponlenosefueguito/Oakland\ Hills\ 1991.ttf);
+  }
+  .button {
+    float: right;
+    background-image: url("https://wallpapercave.com/wp/1ymZb4R.jpg");
+    background-size:contain;
+    background-color: blue;
+    will-change: 50%;
+    border-radius: 30%;
+    height: 120px;
+    width: 120px;
+    font-size: 14px;
+    font-weight: 1000;
+}
+#tia {
+    text-align: center;
+    display: inline;
+    font-size: 50px;
+    font-family: myFirstFonta;
+    background: linear-gradient(yellow,red);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+@font-face {
+    font-family: myFirstFonta;
+    src: url(puesflameropuessiflamer/FLAMER.TTF);
+  }
